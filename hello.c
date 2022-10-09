@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+/*
+*ejercicio de ejemplo para git
+*/
+
 int main(void)
 {
 	print("Este comentario es hecho desde la pagina")
